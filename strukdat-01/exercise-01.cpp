@@ -28,5 +28,5 @@ void fizzbuzz(int a){
 int main(){
 	int a;
 	cout<<"Masukkan range : ";cin>>a;
-	fizzbuzz(a);
+	fizzbuzz(a); //panggil fungsi fizzbuzz dengan parameter aktual nilai a
 }
